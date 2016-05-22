@@ -1,0 +1,32 @@
+# Site settings
+title: EmersonJose
+url: "http://emersonjsouza.github.io"
+baseurl: ""
+#timezone: Asia/Chongqing
+description: >
+  FullStack Developer com mais de 6 anos de experiência, aqui você vai aprender e conhecer as minhas novas aventuras.
+
+# Your information
+email: emersonjprogramador@gmail.com
+author: Emerson jose
+avatar: "//www.gravatar.com/avatar/2e3cc67c7ba4c1ef1bfd848fe5bf2c52?d=mm&s=135"
+profile: FullStack Developer com mais de 6 anos de experiência, aqui você vai aprender e conhecer as minhas novas aventuras.
+twitter_username: emersonjsouzza
+github_username:  emersonjsouza
+
+permalink: /:title
+gems:
+ - jekyll-paginate
+ - jekyll-gist
+ - jemoji
+
+# Build settings
+paginate: 5
+paginate_path: "page:num"
+
+highlighter: rouge
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
