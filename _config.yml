@@ -2,6 +2,7 @@
 title: EmersonJose
 url: "http://emersonjsouza.github.io"
 baseurl: ""
+comments: true
 #timezone: Asia/Chongqing
 description: >
   FullStack Developer com mais de 6 anos de experiência, aqui você vai aprender e conhecer as minhas novas aventuras.
